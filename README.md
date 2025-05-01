@@ -8,6 +8,7 @@ En esta sesión aprenderás los conceptos básicos de Simulink para modelar, sim
 Los puntos clave incluyen:
 
 •	Introducción a Simulink
+
 •	Modelado y simulación de sistemas físicos multidominio
 
 •	Descripción general del diseño y ajuste de sistemas de control
