@@ -3,10 +3,11 @@
 
 # Taller: De la Simulación a la Implementación con MATLAB, Simulink y Simscape
 
-En esta sesión aprenderás los conceptos básicos de Simulink para modelar, simular y analizar sistemas dinámicos multidominio. Verás cómo construir modelos de simulación usando la interfaz de diagramas de bloques de Simulink, su conjunto personalizable de bibliotecas y la conectividad con MATLAB. Los puntos clave incluyen:
+En esta sesión aprenderás los conceptos básicos de Simulink para modelar, simular y analizar sistemas dinámicos multidominio. Verás cómo construir modelos de simulación usando la interfaz de diagramas de bloques de Simulink, su conjunto personalizable de bibliotecas y la conectividad con MATLAB. 
+
+Los puntos clave incluyen:
 
 •	Introducción a Simulink
-
 •	Modelado y simulación de sistemas físicos multidominio
 
 •	Descripción general del diseño y ajuste de sistemas de control
