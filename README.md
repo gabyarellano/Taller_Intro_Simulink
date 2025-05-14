@@ -1,4 +1,4 @@
-# Taller_Intro_Simulink
+# Taller Introducción a Simulink
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/Taller_Intro_Simulink&file=ActividadesTaller.mlx)
 
 # Taller: De la Simulación a la Implementación con MATLAB, Simulink y Simscape
@@ -18,3 +18,5 @@ Los puntos clave incluyen:
 •	Ejemplos de diferentes aplicaciones de Simulink
 
 •	Cómo empezar a usar Simulink y Simscape
+
+Puedes acceder a otros recursos [aquí](https://content.mathworks.com/viewer/6823d09e08e48c4193e8107f).
